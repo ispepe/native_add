@@ -2,6 +2,10 @@
 
 原生调用示例项目
 
+## 搭建开发环境
+
+本示例通过Flutter开发框架一次性获取所需lib，[安装和环境配置](https://flutter.cn/docs/get-started/install)
+
 ## 构建lib步骤
 
 ### 添加 C/C++ 源码
